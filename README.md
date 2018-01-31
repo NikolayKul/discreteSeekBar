@@ -45,7 +45,7 @@ repositories {
 }
 
 dependencies {
-    compile 'org.adw.library:discrete-seekbar:1.0.1'
+    implementation 'org.adw.library:discrete-seekbar:1.0.1'
 }
 ```
 
